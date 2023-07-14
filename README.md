@@ -1,4 +1,4 @@
-#Power BI Project: T20 World Cup 2022 Best Playing XI Analysis of T20 World Cup 2022
+##Power BI Project: T20 World Cup 2022 Best Playing XI Analysis of T20 World Cup 2022
 
 This Power BI project focuses on analyzing the performances of players in the T20 World Cup 2022 and determining the best playing XI based on their individual statistics. By utilizing web scraping techniques to gather data from the ESPNcricinfo website, this project provides valuable insights into player performances and showcases the power of data visualization using Power BI.
 
